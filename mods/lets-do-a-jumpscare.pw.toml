@@ -1,0 +1,13 @@
+name = "Let's do a jumpscare"
+filename = "letsdoajumpscare-1.1+1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e49a2807552708a73bee9d0b957c126314167b0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5208943
+project-id = 922715

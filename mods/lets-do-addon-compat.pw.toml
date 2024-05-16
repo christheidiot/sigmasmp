@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Compat"
+filename = "letsdo-addon-compat-fabric-v1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc422d292ecec95bdfdabe3cd0de6f163b42e983"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5276076
+project-id = 992333

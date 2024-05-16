@@ -1,0 +1,187 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				skeleton = true
+				enderman = true
+				creeper = true
+				zombie = true
+				item = true
+				bat = true
+				sheep = true
+				cow = true
+				spider = true
+				glow_squid = true
+				axolotl = true
+				pig = true
+				chicken = true
+				chest_minecart = true
+				goat = true
+				zombie_villager = true
+				bee = true
+				squid = true
+				drowned = true
+				salmon = true
+				tropical_fish = true
+				dolphin = true
+				witch = true
+				cod = true
+				fox = true
+				wolf = true
+				item_frame = true
+				frog = true
+				horse = true
+				villager = true
+				cat = true
+				slime = true
+				turtle = true
+				experience_orb = true
+				area_effect_cloud = true
+				iron_golem = true
+				pillager = true
+				vindicator = true
+				phantom = true
+				tnt_minecart = true
+				strider = true
+				zombified_piglin = true
+				ghast = true
+				piglin = true
+				piglin_brute = true
+				magma_cube = true
+				wither_skeleton = true
+				blaze = true
+				hoglin = true
+				rabbit = true
+				illusioner = true
+				armor_stand = true
+				stray = true
+				snowball = true
+
+			[light_sources.settings.entities.hamsters]
+				hamster = true
+
+			[light_sources.settings.entities.cobblemon]
+				pokemon = true
+				empty_pokeball = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+				iceologer = true
+				copper_golem = true
+				mauler = true
+
+			[light_sources.settings.entities.naturalist]
+				alligator = true
+				duck = true
+				butterfly = true
+				lizard = true
+				bass = true
+				catfish = true
+				sparrow = true
+				boar = true
+				snail = true
+				snake = true
+				firefly = true
+				robin = true
+				bear = true
+				deer = true
+				bluejay = true
+				rhino = true
+				giraffe = true
+				finch = true
+				vulture = true
+				tortoise = true
+				rattlesnake = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				orc = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+				duck_egg = true
+
+			[light_sources.settings.entities.bloomingnature]
+				squirrel = true
+				deer = true
+				boar = true
+				wandering_gardener = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+				spruce_creeper = true
+				snowy_creeper = true
+				savannah_creeper = true
+
+			[light_sources.settings.entities.mythicmobs]
+				mushroom_thing = true
+				drake = true
+				chupacabra = true
+				kobold = true
+				kobold_warrior = true
+
+			[light_sources.settings.entities.spawn]
+				hamster = true
+				ant = true
+
+			[light_sources.settings.entities.caligo]
+				strow = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_skeleton = true
+				mutant_zombie = true
+				mutant_creeper = true
+
+			[light_sources.settings.entities.soulsweapons]
+				silver_bullet_entity = true
+				accursed_lord_boss = true
+
+			[light_sources.settings.entities.automobility]
+				automobile = true
+
+			[light_sources.settings.entities.meadow]
+				wooly_cow = true
+				water_buffalo = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				naga = true
+				hydrogen_jellyfish = true
+				skull = true
+
+			[light_sources.settings.entities.mythicmounts]
+				acencia = true
+
+			[light_sources.settings.entities.ad_astra]
+				tier_4_rocket = true
+				lander = true
+				corrupted_lunarian = true
+				star_crawler = true
+				lunarian = true
+

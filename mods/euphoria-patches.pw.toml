@@ -1,0 +1,13 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-0.3.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2c47f5da0a29fc7cfbacad7f20bc4e157e25456"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5016102
+project-id = 915902

@@ -1,0 +1,13 @@
+name = "Particle Rain"
+filename = "particle-rain-2.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a6ed23fee06f452daf74fd3c0ff5b2316fbc3e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4817098
+project-id = 421897

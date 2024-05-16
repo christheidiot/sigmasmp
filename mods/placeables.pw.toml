@@ -1,0 +1,13 @@
+name = "Placeables"
+filename = "Placeables Fabric 1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5821d1ee25292aa1c771fe462e8a740adb84308f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5238757
+project-id = 943100

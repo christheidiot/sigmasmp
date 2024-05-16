@@ -1,0 +1,13 @@
+name = "Vectorientation"
+filename = "vectorientation-1.1-1.20.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "248ccd486de4cc224079aed1169abf71b8eea631"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5184084
+project-id = 457394

@@ -1,0 +1,13 @@
+name = "Diagonal Walls"
+filename = "DiagonalWalls-v8.0.3-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73b63b2ac921eb0a0e7a92ce22e1802f4d6963c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5220116
+project-id = 969422

@@ -1,0 +1,13 @@
+name = "Plushie Mod"
+filename = "plushies-1.4.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5320de3a6d6b88c88c31eb2de8fea4fd461ad879"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4969753
+project-id = 544197

@@ -1,0 +1,13 @@
+name = "Traveler's Compass"
+filename = "travelerscompass-1.20.1-2.0.4.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc90ca5a0336ccb28fe87b593278c058dff1c7b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5193325
+project-id = 954415

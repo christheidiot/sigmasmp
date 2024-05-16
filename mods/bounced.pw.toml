@@ -1,0 +1,13 @@
+name = "Bounced!"
+filename = "bounced-4.1.0-fabric1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6618559fc878597213566aec1b500aa8bd83c3e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5235348
+project-id = 844458

@@ -1,0 +1,13 @@
+name = "Caligo"
+filename = "caligo-0.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc17cc22d4ba09b380739405cd833ba90a20617d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5240674
+project-id = 996454

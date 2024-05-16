@@ -1,0 +1,13 @@
+name = "Hamsters Plus"
+filename = "hamsters-fabric-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cc41273567fe0a9ca0f221b61cab9ad6403961c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5121303
+project-id = 952435
